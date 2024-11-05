@@ -23,7 +23,7 @@ export default function App() {
           { src: sofa, alt: "Sofa website", title: "Sofa Website", github: "https://github.com", demo: "https://sofa-set.vercel.app/" },
           { src: book, alt: "Book Store", title: "Book Store", github: "https://github.com/mk26408527/Book-store-landing-page", demo: "https://book-store-landing-page.vercel.app/" },
           { src: portfolio, alt: "Portfolio Website", title: "Portfolio Website", github: "https://github.com/mk26408527/Simple-Portfolio-", demo: "https://simple-portfolio-one-lyart.vercel.app/" },
-          { src: resume, alt: "Static Resume", title: "Static Resume", github: "https://github.com/mk26408527/Hackhathone_Milestone/tree/main/MileStone-1", demo: "https://milestone-1-2-sigma.vercel.app/" },
+          { src: resume, alt: "Static Resume", title: "Static Resume", github: "https://github.com/mk26408527/Hackhathone-Milestones", demo: "https://hackhathone-milestones.vercel.app/" },
           { src: fb, alt: "Facebook sign-up page", title: "Facebook sign-up page", github: "https://github.com/mk26408527/fb-signup-page", demo: "https://fb-signup-page-jwzu.vercel.app/" }]
 
           .map((project, index) => (
